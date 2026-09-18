@@ -21,6 +21,27 @@
         "file": "⭐️ IMVester",
         "page": "    ⌙ Página"
       }
+    },
+    "imvester-qbeh": {
+      "title": "ImVester",
+      "createdAt": "2026-09-18T13:55:58.509Z",
+      "updatedAt": "2026-09-18T13:55:58.509Z",
+      "frames": [
+        {
+          "name": "6 - Portfólio - Mobile",
+          "width": 375,
+          "height": 5263
+        },
+        {
+          "name": "5 - Portfólio - Desktop",
+          "width": 1920,
+          "height": 4557
+        }
+      ],
+      "source": {
+        "file": "⭐️ IMVester",
+        "page": "    ⌙ Página"
+      }
     }
   }
 }
