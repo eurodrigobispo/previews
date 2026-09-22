@@ -74,6 +74,22 @@
         "file": "Wolf - Páginas / Set 2026",
         "page": "4. Afirmação Concursos"
       }
+    },
+    "afirmacao-b": {
+      "title": "Afirmação Online | Preparação para Carreiras Policiais B",
+      "createdAt": "2026-09-22T16:50:56.702Z",
+      "updatedAt": "2026-09-22T16:50:56.702Z",
+      "frames": [
+        {
+          "name": "Afirmação Online | Preparação para Carreiras Policiais B",
+          "width": 2545,
+          "height": 13167
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Set 2026",
+        "page": "4. Afirmação Concursos"
+      }
     }
   }
 }
