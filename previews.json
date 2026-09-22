@@ -58,6 +58,22 @@
         "file": "Wolf - Páginas / Set 2026",
         "page": "2. Flovie"
       }
+    },
+    "afirmacao-a": {
+      "title": "Afirmação Online Versão A",
+      "createdAt": "2026-09-22T16:48:22.149Z",
+      "updatedAt": "2026-09-22T16:48:22.149Z",
+      "frames": [
+        {
+          "name": "Afirmação Online | Preparação para Carreiras Policiais A",
+          "width": 2545,
+          "height": 13167
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Set 2026",
+        "page": "4. Afirmação Concursos"
+      }
     }
   }
 }
