@@ -94,12 +94,22 @@
     "afirmacao-c": {
       "title": "Afirmação Online | Preparação para Carreiras Policiais C",
       "createdAt": "2026-09-22T16:54:23.853Z",
-      "updatedAt": "2026-09-22T16:54:23.853Z",
+      "updatedAt": "2026-09-23T22:59:03.711Z",
       "frames": [
+        {
+          "name": "Afirmação Online | Preparação para Carreiras Policiais A",
+          "width": 2545,
+          "height": 14150
+        },
+        {
+          "name": "Afirmação Online | Preparação para Carreiras Policiais B",
+          "width": 2545,
+          "height": 14150
+        },
         {
           "name": "Afirmação Online | Preparação para Carreiras Policiais C",
           "width": 2545,
-          "height": 13167
+          "height": 14150
         }
       ],
       "source": {
