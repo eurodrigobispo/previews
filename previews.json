@@ -122,6 +122,22 @@
         "file": "Wolf - Páginas / Out 2026",
         "page": "1. Wek Care / alt."
       }
+    },
+    "pepti-gepa": {
+      "title": "Desktop 1920 - PeptiGlow",
+      "createdAt": "2026-10-06T15:33:08.632Z",
+      "updatedAt": "2026-10-06T15:33:08.632Z",
+      "frames": [
+        {
+          "name": "Desktop 1920 - PeptiGlow",
+          "width": 1920,
+          "height": 12050
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Out 2026",
+        "page": "6. Pepti Glow"
+      }
     }
   }
 }
