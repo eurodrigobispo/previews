@@ -106,6 +106,22 @@
         "file": "Wolf - Páginas / Set 2026",
         "page": "4. Afirmação Concursos"
       }
+    },
+    "wek-care-alterado-4kht": {
+      "title": "Wek Care - Pagina alterada 06.10 ✅",
+      "createdAt": "2026-10-06T14:52:01.220Z",
+      "updatedAt": "2026-10-06T14:52:01.220Z",
+      "frames": [
+        {
+          "name": "Wek Care - Pagina alterada 06.10 ✅",
+          "width": 1920,
+          "height": 14317
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Out 2026",
+        "page": "1. Wek Care / alt."
+      }
     }
   }
 }
