@@ -154,6 +154,22 @@
         "file": "Wolf - Páginas / Out 2026",
         "page": "6. Pepti Glow"
       }
+    },
+    "pepti-glow-nuqm": {
+      "title": "Desktop 1920 - PeptiGlow",
+      "createdAt": "2026-10-07T13:24:42.829Z",
+      "updatedAt": "2026-10-07T13:24:42.829Z",
+      "frames": [
+        {
+          "name": "Desktop 1920 - PeptiGlow",
+          "width": 1920,
+          "height": 12452
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Out 2026",
+        "page": "6. Pepti Glow"
+      }
     }
   }
 }
