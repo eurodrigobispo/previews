@@ -202,6 +202,22 @@
         "file": "Wolf - Páginas / Out 2026",
         "page": "6. Pepti Glow"
       }
+    },
+    "soffia": {
+      "title": "Soffia - Página 1920",
+      "createdAt": "2026-10-12T18:00:52.534Z",
+      "updatedAt": "2026-10-12T18:00:52.534Z",
+      "frames": [
+        {
+          "name": "Soffia - Página 1920",
+          "width": 1920,
+          "height": 8981
+        }
+      ],
+      "source": {
+        "file": "Soff.ia - Identidade",
+        "page": "Pagina 2"
+      }
     }
   }
 }
