@@ -218,6 +218,22 @@
         "file": "Soff.ia - Identidade",
         "page": "Pagina 2"
       }
+    },
+    "slim-gummie": {
+      "title": "Slim Gummie - Página de vendas ✅",
+      "createdAt": "2026-10-15T18:02:37.236Z",
+      "updatedAt": "2026-10-15T18:02:37.236Z",
+      "frames": [
+        {
+          "name": "Slim Gummie - Página de vendas ✅",
+          "width": 1920,
+          "height": 14510
+        }
+      ],
+      "source": {
+        "file": "Slim Gummie - Página de vendas - Wolf",
+        "page": "Pagina ✅"
+      }
     }
   }
 }
