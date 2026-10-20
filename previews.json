@@ -234,6 +234,22 @@
         "file": "Slim Gummie - Página de vendas - Wolf",
         "page": "Pagina ✅"
       }
+    },
+    "dr-igor": {
+      "title": "Dr. Igor - Página de vendas",
+      "createdAt": "2026-10-20T14:36:34.766Z",
+      "updatedAt": "2026-10-20T14:36:34.766Z",
+      "frames": [
+        {
+          "name": "Dr. Igor - Página de vendas",
+          "width": 1920,
+          "height": 15428
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Out 2026",
+        "page": "6. Dr. Igor"
+      }
     }
   }
 }
