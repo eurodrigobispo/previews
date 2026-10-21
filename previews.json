@@ -250,6 +250,22 @@
         "file": "Wolf - Páginas / Out 2026",
         "page": "6. Dr. Igor"
       }
+    },
+    "dr-igor-v2": {
+      "title": "Dr. Igor - Página de vendas v3",
+      "createdAt": "2026-10-21T14:54:49.695Z",
+      "updatedAt": "2026-10-21T14:54:49.695Z",
+      "frames": [
+        {
+          "name": "Dr. Igor - Página de vendas v3",
+          "width": 1920,
+          "height": 16038
+        }
+      ],
+      "source": {
+        "file": "Wolf - Páginas / Out 2026",
+        "page": "6. Dr. Igor"
+      }
     }
   }
 }
