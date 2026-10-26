@@ -282,6 +282,22 @@
         "file": "Wolf - Páginas / Out 2026",
         "page": "6. Dr. Igor"
       }
+    },
+    "reposiciona": {
+      "title": "Reposiciona - Página e-book",
+      "createdAt": "2026-10-26T11:07:08.566Z",
+      "updatedAt": "2026-10-26T11:07:08.566Z",
+      "frames": [
+        {
+          "name": "Reposiciona - Página e-book",
+          "width": 1920,
+          "height": 9528
+        }
+      ],
+      "source": {
+        "file": "Nah Monstans",
+        "page": "Página de Captura · REPOSICIONA"
+      }
     }
   }
 }
