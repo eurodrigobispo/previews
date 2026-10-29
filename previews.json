@@ -324,6 +324,22 @@
         "file": "Dr. Igor - Identidade",
         "page": "          ↪ Página mentoria"
       }
+    },
+    "candidatura": {
+      "title": "Candidatura recebida",
+      "createdAt": "2026-10-29T17:06:22.495Z",
+      "updatedAt": "2026-10-29T17:06:22.495Z",
+      "frames": [
+        {
+          "name": "Candidatura recebida · Dr. Igor Magalhães",
+          "width": 1920,
+          "height": 1283
+        }
+      ],
+      "source": {
+        "file": "Dr. Igor - Identidade",
+        "page": "          ↪ Página mentoria"
+      }
     }
   }
 }
